@@ -73,6 +73,10 @@ p {
     color: greenyellow;
 }
 
+.container {
+    max-width: 600px;
+}
+
 .copyright {
     color: rgb(105, 105, 105);
 }
