@@ -12,6 +12,13 @@ body {
     min-height: 90vh;
 }
 
+hr {
+    border: none;
+    height: 2px;
+    background-color: rgb(255, 255, 255);
+    margin: 28px 0;
+}
+
 h1,
 a {
     color: greenyellow;
